@@ -2,8 +2,4 @@
 <script>  setTimeout(wakeUpUser, 6000);
  function wakeUpUser() {  alert("Ты долго собрался пялится? Ета страница-НЕ О ЧЕМ!!!)");
  }  </script> 
-<<<<<<< HEAD
-CV
-=======
-New sting
->>>>>>> 3330512aa0f2d6d1bc3c5db5fb4d46831a167c35
+Time
