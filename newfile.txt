@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"New Sting" CV
-=======
-"New Sting" One
->>>>>>> 3330512aa0f2d6d1bc3c5db5fb4d46831a167c35
+Time
