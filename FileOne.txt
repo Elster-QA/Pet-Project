@@ -2,5 +2,4 @@
 <script>  setTimeout(wakeUpUser, 3000);
  function wakeUpUser() {  alert("Ты долго собрался пялится? Ета страница-НЕ О ЧЕМ!!!)");
  }  </script> 
- 
-
+ COMMIT to LOCAL
