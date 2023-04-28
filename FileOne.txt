@@ -1,9 +1,0 @@
-
-<script>  setTimeout(wakeUpUser, 6000);
- function wakeUpUser() {  alert("Ты долго собрался пялится? Ета страница-НЕ О ЧЕМ!!!)");
-
- }  </script> 
-
-
-I am Number ONE AN
-
