@@ -1,4 +1,4 @@
 
-TEST oneDI-DI-DO
+TEST oneDI-DI
 
 
