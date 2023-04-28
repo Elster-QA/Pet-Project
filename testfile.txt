@@ -1,1 +1,1 @@
-TEST oneDISTINCT 
+TEST oneDIST
